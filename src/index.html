@@ -1,15 +1,65 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Caesar Cipher</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div id="root">
-      <h1>Hola mundo!</h1>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Cifrado</title>
+  <link rel="shortcut icon" href="img/favicon.jpg">
+  <link rel="stylesheet" href="style.css">
+  <!-- tipografia de letra -->
+  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div id="logo">
+        <a href="index.html"><img src="img/logo.png" alt=""/></a>
     </div>
-    <script src="cipher.js"></script>
-    <script src="index.js"></script>
-  </body>
+    </header>
+
+    <section id="welcome">
+      <div id="titulo">
+      <h1>Bienvenido</h1>
+    </div>
+      <div id="subtitulo">
+        <h3>Quieres enviarle un mensaje secreto a tus amigos, con Código secreto puedes hacerlo.</h3>
+      </div>
+    <div id="instrucciones">
+      <h4>Instrucciones:</h4>
+      <p>-  Solo debes presionar el botón ingresar</p>
+      <p>-  Luego ingresar el texto (en mayúsculas sin Ñ) que quieras cifrar o descifrar </p>
+      <p>-  Elige tu número favorito, si te enviaron un mensaje secreto, debes colocar el número que eligió tu amigo</p>
+      <p>-	Presiona el botón para la opción que necesites cifrar o descifrar.</p>
+      <p>-	Y finalmente comparte tu texto con tu número favorito.</p>
+    </div>
+      <div id="boton">
+        <button id="btningresar">Ingresar</button>
+        </div>
+    </section>
+  <section id="cipher">
+  <div id="form">
+
+      <div>
+        <input type="number" placeholder="ingresa tu número favorito" id="offset">
+        <input type="text" placeholder="Ingresa tu texto" id="code">
+      </div>
+      <button id="btnencode">Cifrar</button>
+      <button id="btndecode">Descifrar</button>
+  </div>
+  <div id="contenedor_datos">
+ <!-- Acá irá nuestro código que crearemos desde js -->
+  </div>
+  <button id="btnhome"><a href="index.html">Volver</a></button>
+</section>
+<footer>
+    <div id="logo1">
+        <a href="index.html"><img src="img/logo1.png" alt=""/></a>
+    </div>
+  <div id="copy">
+    <p>&copy; 2019 Código Secreto| Diseñado Yaniza Molina</p>
+  </div>
+</footer>
+<script src="cipher.js"></script>
+<script src="index.js"></script>
+</body>
 </html>
