@@ -35,8 +35,8 @@ Luego para darle forma utilizamos 4 archivos.
 
 ## Prototipo de baja fidelidad
 
-![](prototipo1.jpg)     
-![](prototipo2.jpg)   
+![](prototipo1.jpeg)     
+![](prototipo2.jpeg)   
 
 ## Nuestro mercado objetivo
 
