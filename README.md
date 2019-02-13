@@ -35,7 +35,8 @@ Luego para darle forma utilizamos 4 archivos.
 
 ## Prototipo de baja fidelidad
 
-![](logo.jpg)       
+![](prototipo1.jpg)     
+![](prototipo2.jpg)   
 
 ## Nuestro mercado objetivo
 
@@ -58,7 +59,7 @@ Actualmente nuestra sociedad vive en una constante inseguridad social, nos vemos
 
 En el siguiente enlace encontrarán como se fueron realizando las tareas.
 
-[](https://trello.com/b/c3YM0Fhg/proyecto)
+(https://trello.com/b/c3YM0Fhg/proyecto)
 
 
 
