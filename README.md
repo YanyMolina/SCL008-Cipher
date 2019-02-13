@@ -22,7 +22,7 @@
 
 En el siguiente enlace podrás encontrar nuestra aplicación.
 
-[](https://yanymolina.github.io/SCL008-Cipher/src/index.html)
+(https://yanymolina.github.io/SCL008-Cipher/src/index.html)
 
 ## Diseño de aplicación
 
@@ -35,8 +35,7 @@ Luego para darle forma utilizamos 4 archivos.
 
 ## Prototipo de baja fidelidad
 
-![](prototipo1.jpg) 
-![](prototipo2.jpg)  
+![](logo.jpg)       
 
 ## Nuestro mercado objetivo
 
@@ -60,3 +59,11 @@ Actualmente nuestra sociedad vive en una constante inseguridad social, nos vemos
 En el siguiente enlace encontrarán como se fueron realizando las tareas.
 
 [](https://trello.com/b/c3YM0Fhg/proyecto)
+
+
+
+
+
+
+
+
