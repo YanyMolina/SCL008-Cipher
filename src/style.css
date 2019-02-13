@@ -90,15 +90,15 @@ h4 {
     color: #0e1115;
     text-align: center;
 }
-#btningresar, #btnencode, #btndecode, #btnhome{
+#btningresar, #btnencode, #btndecode, #btnhome, #btngmail{
     height: 40px;
-    width: 100px;
+    width: 130px;
     margin: 10px 20px;
     padding: auto;
     text-decoration: none;
     font-family:  'Oswald', sans-serif;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 17px;
     color: #0e1115;
     background-color: #e4e9ee;
     border-radius: 6px;
@@ -109,8 +109,9 @@ a{
 }
 #contenedor_datos{
     margin-left: 500px;
+    padding: 20px;
     height: 200px;
-    width: 600px;
+    width: 550px;
     background-color: #e4e9ee;
     border: 2px solid #072f6a;
     border-radius: 4px;
@@ -118,6 +119,7 @@ a{
     color: #0e1115;
     text-align: center;
 }
+
 footer{
     background-color: #072f6a;
 }
