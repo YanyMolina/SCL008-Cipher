@@ -60,11 +60,3 @@ Actualmente nuestra sociedad vive en una constante inseguridad social, nos vemos
 En el siguiente enlace encontrarán como se fueron realizando las tareas.
 
 [](https://trello.com/b/c3YM0Fhg/proyecto)
-
-
-
-
-
-
-
-
